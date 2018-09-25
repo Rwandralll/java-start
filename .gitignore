@@ -1,0 +1,46 @@
+croissantBack/target/
+croissant-web/node_modules/
+.metadata/
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+croissant-web/dist
+croissant-web/dist-server
+croissant-web/tmp
+croissant-web/out-tsc
+
+# dependencies
+croissant-web/node_modules
+
+# IDEs and editors
+croissant-web/.idea
+croissant-web/.project
+croissant-web/.classpath
+croissant-web/.c9/
+croissant-web/*.launch
+croissant-web/.settings/
+croissant-web/*.sublime-workspace
+
+# IDE - VSCode
+croissant-web/.vscode/*
+!croissant-web/.vscode/settings.json
+!croissant-web/.vscode/tasks.json
+!croissant-web/.vscode/launch.json
+!croissant-web/.vscode/extensions.json
+
+# misc
+croissant-web/.sass-cache
+croissant-web/connect.lock
+croissant-web/coverage
+croissant-web/libpeerconnection.log
+croissant-web/npm-debug.log
+croissant-web/testem.log
+croissant-web/typings
+
+# e2e
+croissant-web/e2e/*.js
+croissant-web/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db

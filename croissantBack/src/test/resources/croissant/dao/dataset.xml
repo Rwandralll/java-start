@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<CalendarEvent idCalendarEvent="0" startDate="2012-01-01" endDate="2012-01-01" title="Test0" primaryColor="#a0b2a5" secondaryColor="#6c3c6d" beforeStartResizable="0" afterEndResizable="1" draggable="1"/>
+	<CalendarEvent idCalendarEvent="1" startDate="2012-01-02" endDate="2012-01-03" title="Test1" primaryColor="#ad2121" secondaryColor="#FAE3E3" beforeStartResizable="1" afterEndResizable="1" draggable="0"/>
+</dataset>
